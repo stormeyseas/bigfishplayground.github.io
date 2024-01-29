@@ -13,3 +13,6 @@ RnwWeave: Sweave
 LaTeX: XeLaTeX
 
 StripTrailingWhitespace: Yes
+
+MarkdownWrap: Column
+MarkdownWrapAtColumn: 72

@@ -1,45 +1,49 @@
 ---
-title: " "
-about: 
-  template: solana
+title: " " # title is in title
+#about: 
+#  template: solana
 editor: 
   markdown: 
     wrap: 72
+wrap: "auto"
+whitespace: "large"
+sidebar: false
 ---
 
-![](images/BigFish.jpg){fig-align="center" width="50%"}
+::: columns
+::: {.column width="40%"}
+![](images/BigFish.jpg){fig-align="center" width="100%"}
+:::
 
-<h1 style="text-align: center;">
+::: {.column width="10%"}
+<!-- empty column to create gap -->
+:::
 
-The game all about fishing in a sustainable way
+::: {.column width="50%"}
+::: h2
+The sustainable fishing game
+:::
 
-</h1>
-
-<p style="text-align: center; font-size: 20px">
-
+::: p
 The Big Fish card game aims to inform and engage everyone interested in
 fishing or marine conservation through fun play. The main goal of the
 game is to collect the maximum number of points from catching fish while
 also preserving a healthy ecosystem and fish size diversity for future
 catches. The game is suitable to ages from 10 to 99+ and is best played
 in a group of 2-5 players.
-
-</p>
-
-<br/><br/>
+:::
+:::
+:::
 
 ------------------------------------------------------------------------
 
+::: h2
+Game mechanics
+:::
+
 ![](images/BandedMorwong.jpg){fig-align="center" width="50%"}
 
-<h1 style="text-align: center;">
-
-Game mechanics
-
-</h1>
-
-<p style="text-align: center; font-size: 20px">
-
+::: p
 Big fish are worth more points than small fish, so players are tempted
 to catch them. But presence of big fish also allows players to draw new
 cards, spawn new fish and also grow them. The player has to find a
@@ -49,51 +53,42 @@ and human induced events occur throughout the game, such as fisheries
 research, poor water quality, citizen science, illegal fishing, ocean
 acidification and others. These events create unpredictability and new
 challenges and inform about human impacts on aquatic ecosystems.
-
-</p>
-
-<br/><br/>
+:::
 
 ------------------------------------------------------------------------
 
-<h1 style="text-align: center;">
-
+::: h2
 Main messages
+:::
 
-</h1>
+::: p
+This game aims to introduce three main messages that we care about:
 
-<p style="text-align: center; font-size: 20px">
+::: ol
+1.  <bf>Big fish are important.</bf> Big fish are important for
+    population resilience, ecosystem balance and simply because they are
+    beautiful.
 
-This game aims to introduce three main messages that we care about
-
--   **Big fish are important**. They are important for population
-    resilience, ecosystem balance and simply because they are beautiful.
-
--   **Big fish are mostly all gone**. Commercial and recreational
-    fishing has removed most of the large fish from the ocean, lakes and
+2.  <bf>Big fish are mostly all gone.</bf> Commercial and recreational
+    fishing has removed most of the big fish from our oceans, lakes and
     rivers.
 
--   **Big fish can return**. Fish grow relatively fast and we take the
-    right measures, we can restore healthy ecosystems and their beauty
-    within our lifetimes.
-
-</p>
+3.  <bf>Big fish can return.</bf> Fish grow relatively fast. If we take
+    the right measures, we can restore healthy ecosystems and their
+    beauty within our lifetimes.
+:::
+:::
 
 ![](images/sebastian-pena-lambarri-unsplash.jpg){fig-align="center"
 width="50%"}
 
-<br/><br/>
-
 ------------------------------------------------------------------------
 
-<h1 style="text-align: center;">
-
+::: h2
 Who are we
+:::
 
-</h1>
-
-<p style="text-align: center;font-size: 20px">
-
+::: p
 This game has been developed by the Institute of Marine and Antarctic
 Sciences (IMAS), University of Tasmania team, led by Matt Testoni, Asta
 Audzijonyte and Amy Coghlan. All artwork is original and produced by Amy
@@ -101,40 +96,28 @@ Coghlan (drawings) and Matt Testoni (photos, design). Game testing,
 advice, interesting facts and many other details have been provided by
 many researchers, naturalists, students, friends, anglers, divers and
 game enthusiasts. Thank you.
-
-</p>
-
-<br/><br/>
+:::
 
 ------------------------------------------------------------------------
 
-<h1 style="text-align: center;">
-
+::: h2
 Supporters
+:::
 
-</h1>
-
-<p style="text-align:center; font-size: 20px">
-
+::: p
 This work is supported by a 2020 Pew Fellowship in Marine Conservation
-awarded to Asta Audzijonyte
-
-</p>
-
-<br/><br/>
+awarded to Asta Audzijonyte.
+:::
 
 ------------------------------------------------------------------------
 
-<h1 style="text-align: center;">
-
+::: h2
 Contact us
+:::
 
-</h1>
-
-<p style="text-align: center;font-size: 20px">
-
+::: p
 If you would like to learn more about our work, adapt the game to your
 ecosystem, apply the game to your teaching or support our work please
-contact us at info\@fishsizeproject.org
-
-</p>
+contact us at
+[info\@fishsizeproject.org](mailto:info@fishsizeproject.org).
+:::
