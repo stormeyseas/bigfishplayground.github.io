@@ -38,7 +38,7 @@ website:
 
 format:
   html:
-    theme: yeti
+    theme: lux
     page-layout: full
     grid:
       sidebar-width: 100px
