@@ -5,7 +5,6 @@ title: " " # title is in title
 # editor: 
 #   markdown: 
 #     wrap: 72
-wrap: "auto"
 whitespace: "large"
 sidebar: false
 ---
@@ -24,42 +23,117 @@ BIGFISH: The sustainable fishing game
 :::
 
 ::: {.column width="50%"}
-::: p
+::: text-left
 The Big Fish card game aims to inform and engage everyone interested in
 fishing or marine conservation through fun play.
 
 The main goal of the game is to collect the maximum number of points
 from catching fish while also preserving a healthy ecosystem and fish
-size diversity for future catches. The game is suitable to ages from 10
-to 99+ and is best played in a group of 2-5 players.
+size diversity for future catches.
+<!-- The game is suitable to ages from 10 to 99+ and is best played in a group of 2-5 players. -->
 :::
 :::
 :::
 
-<hr>
+::: columns
+::: {.column width="20%"}
+<!-- empty column to create gap -->
+:::
+
+::: {.column width="25%"}
+::: text-center
+<img src="/images/icons/children-solid.svg" style="width:50%; position:relative;"/>
+
+Suitable for ages 10+
+:::
+:::
+
+::: {.column width="10%"}
+<!-- empty column to create gap -->
+:::
+
+::: {.column width="25%"}
+::: text-center
+<img src="/images/icons/users-solid.svg" style="width:50%;"/>
+
+Best for groups of 2-5 players
+:::
+:::
+
+::: {.column width="20%"}
+<!-- empty column to create gap -->
+:::
+:::
+
+------------------------------------------------------------------------
 
 ::: h2
-Game mechanics
+Playing the game
 :::
 
-![](images/BandedMorwong.jpg){fig-align="center" width="50%"}
-
-::: p
+::: text-center
 Big fish are worth more points than small fish, so players are tempted
-to catch them. But presence of big fish also allows players to draw new
-cards, spawn new fish and also grow them. The player has to find a
-balance between collecting points by catching fish and preserving fish
-for good fishing opportunities. In addition to fishing, other natural
-and human induced events occur throughout the game, such as fisheries
-research, poor water quality, citizen science, illegal fishing, ocean
-acidification and others. These events create unpredictability and new
-challenges and inform about human impacts on aquatic ecosystems.
+to catch them. But the presence of big fish in the ecosystem allows
+players to draw new cards, spawn new fish, and grow more big fish!
 :::
 
-<hr>
+![](images/BandedMorwong.jpg){fig-align="center" width="75%"
+margin-top="25px"}
+
+::: text-center
+Players must find a balance between collecting points (by catching fish)
+and preserving enough fish for future fishing. In addition to fishing,
+other natural and human-induced events occur throughout the game, such
+as fisheries research, poor water quality, citizen science, illegal
+fishing, ocean acidification and others. These events create
+unpredictability and new challenges, and inform players about human
+impacts on aquatic ecosystems.
+:::
 
 ::: h2
-Main messages
+Rules
+:::
+
+::: columns
+::: {.column width="30%"}
+Pic for rule
+:::
+
+::: {.column width="70%"}
+::: text-left
+Summary of rule
+:::
+:::
+:::
+
+::: columns
+::: {.column width="30%"}
+Pic for rule
+:::
+
+::: {.column width="70%"}
+::: text-left
+Summary of rule
+:::
+:::
+:::
+
+::: columns
+::: {.column width="30%"}
+Pic for rule
+:::
+
+::: {.column width="70%"}
+::: text-left
+Summary of rule
+:::
+:::
+:::
+
+------------------------------------------------------------------------
+
+::: h1
+Messages
 :::
 
 ::: p
@@ -80,13 +154,16 @@ This game aims to introduce three main messages that we care about:
 :::
 :::
 
-![](images/sebastian-pena-lambarri-unsplash.jpg){fig-align="center"
-width="50%"}
+::: {style="text-align:center; margin-bottom: 20px;"}
+\
+<button type="button" class="btn btn-primary">
 
 ------------------------------------------------------------------------
+Explore the science
 
 ::: h2
 Who are we
+</button>
 :::
 
 ::: p
@@ -98,6 +175,8 @@ advice, interesting facts and many other details have been provided by
 many researchers, naturalists, students, friends, anglers, divers and
 game enthusiasts. Thank you.
 :::
+![](images/sebastian-pena-lambarri-unsplash.jpg){fig-align="center"
+width="50%"}
 
 ------------------------------------------------------------------------
 
