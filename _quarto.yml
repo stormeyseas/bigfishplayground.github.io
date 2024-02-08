@@ -43,10 +43,10 @@ format:
     theme: lux
     page-layout: full
     grid:
-      sidebar-width: 100px
-      body-width: 900px
-      margin-width: 100px
-      gutter-width: 30px
+      sidebar-width: 250px
+      body-width: 1200px
+      margin-width: 250px
+      gutter-width: 50px
     css: styles.css
     toc: true
     fig-responsive: true
