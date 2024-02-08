@@ -17,7 +17,7 @@ website:
         text: Wildcards
       - href: resources.qmd
         text: Resources
-      - href: about.qmd
+      - href: AboutDevs.qmd
         text: About Us
   sidebar:
   # id, title, search: true, tools, contents: "auto", style: "docked", background, foreground, border, alignment, collapse-level, pinned, header, footer

@@ -158,48 +158,18 @@ This game aims to introduce three main messages that we care about:
 \
 <button type="button" class="btn btn-primary">
 
-------------------------------------------------------------------------
 Explore the science
 
-::: h2
-Who are we
 </button>
 :::
 
-::: p
-This game has been developed by the Institute of Marine and Antarctic
-Sciences (IMAS), University of Tasmania team, led by Matt Testoni, Asta
-Audzijonyte and Amy Coghlan. All artwork is original and produced by Amy
-Coghlan (drawings) and Matt Testoni (photos, design). Game testing,
-advice, interesting facts and many other details have been provided by
-many researchers, naturalists, students, friends, anglers, divers and
-game enthusiasts. Thank you.
-:::
 ![](images/sebastian-pena-lambarri-unsplash.jpg){fig-align="center"
 width="50%"}
 
 ------------------------------------------------------------------------
 
 ::: h2
-Supporters
+About the developers
 :::
 
-::: p
-This work is supported by a 2020 Pew Fellowship in Marine Conservation
-awarded to Asta Audzijonyte.
-:::
 
-------------------------------------------------------------------------
-
-::: h2
-Contact us
-:::
-
-::: p
-If you would like to learn more about our work, adapt the game to your
-ecosystem, apply the game to your teaching or support our work please
-contact us at
-[info\@fishsizeproject.org](mailto:info@fishsizeproject.org "Contact email").
-
-
-:::
