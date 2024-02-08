@@ -28,13 +28,15 @@ website:
      style: "docked"
   page-footer:
     left: |
-      <p style="font-size:10px color:#fffff"> Contact us at [info\@fishsizeproject.org](mailto:info@fishsizeproject.org "Contact email")</p>
-    center: " "
+      [![](/images/icons/envelope-solid.svg){fig-alt="info@fishsizeproject.org" fig-align="center" height="1.5em" fig-valign="top" margin-left="5px"}](mailto:info@fishsizeproject.org)
+      [info@fishsizeproject.org](info@fishsizeproject.org)<br>
+      [![](/images/icons/github.svg){fig-alt="info@fishsizeproject.org" fig-align="center" height="1.5em" fig-valign="top" margin-left="5px"}](mailto:info@fishsizeproject.org)
+      [![](/images/icons/rss-solid.svg){fig-alt="info@fishsizeproject.org" fig-align="center" height="1.5em" fig-valign="top" margin-left="5px"}](mailto:info@fishsizeproject.org)
     right: |
-      <p style="color:#fffff">Copyright 2024, BigFish Project <br></p>
-      [![](images/icons/github.svg){fig-alt="github" fig-align="right" width="3%" padding-left="5px"}](https://github.com/fishsizeproject/BigFishGame)
-      [![](images/icons/rss-solid.svg){fig-alt="RSS" fig-align="right" width="3%" padding-left="5px"}](https://github.com/fishsizeproject/BigFishGame)
+      Copyright BigFish Project 2024.<br>
+      This work is supported by a 2020 Pew Fellowship in Marine Conservation.<br>
     background: dark
+    foreground: light
 
 format:
   html:

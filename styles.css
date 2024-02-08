@@ -1,14 +1,11 @@
 /* css styles */
 .p, p {
-    text-align: left;
-    font-family: Nunito, sans-serif;
-    font-size: 1em; /* 16-17px; */
-    margin-top: 0.5em;
-    margin-bottom: 1.5em;
+  font-family: Nunito, sans-serif;
+  font-size: 1em; /* 16-17px; */
 }
 
 .ol, ol {
-    text-align: left;
+  text-align: left;
 }
 
 .bf, bf {
@@ -24,7 +21,6 @@
   border-bottom: none;
   letter-spacing: 120%;
   line-height: 150%;
-  text-transform: uppercase;
   text-align: center;
   font-family: Inter, sans-serif;
 }
@@ -33,32 +29,35 @@
   text-align: left;
   font-family: Nunito, sans-serif;
   font-size: 1em;
-  text-transform: none;
   text-align: left;
 }
 
 .h3, h3 {
   font-size: 1.25em;
-  text-transform: none;
 }
 
 .h2, h2 {
-  font-size: 1.75em;
+  font-size: 1.5em;
 }
 
 .h1, h1 {
   font-size: 2em;
+  text-transform: uppercase;
 }
 
 .title, title {
-  margin-top: 5em;
-  margin-bottom: 5em;
   font-weight: 800;
   border-bottom: none;
   padding-top: 10px;
-  padding-bottom: 10px;
-  font-size: 5empx;
   color: #053c5e;
-  line-height: 1.5;
   box-sizing: border-box;
+}
+
+.nav-footer {
+  padding-top: 1.5rem;
+  padding-bottom: 1.5rem;
+}
+
+.nav-footer-center {
+  flex-grow: 0;
 }
