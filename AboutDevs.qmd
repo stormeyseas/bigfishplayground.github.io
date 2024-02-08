@@ -2,9 +2,7 @@
 title: "About Us"
 sidebar: false
 ---
-<!-- About Us -->
 
-::: text-left
 This game has been developed by the Institute of Marine and Antarctic Sciences (IMAS) <bf>[link!]</bf>, University of Tasmania team, led by Matt Testoni, Asta Audzijonyte and Amy Coghlan. All artwork is original and produced by Amy Coghlan (drawings) and Matt Testoni (photos, design). 
 
 ::: columns
@@ -50,25 +48,17 @@ Game testing, advice, interesting facts and many other details have been provide
 
 ------------------------------------------------------------------------
 
-::: h3
-Contact us
-:::
+### Contact us {#sec-contact}
 
-::: p
 If you would like to learn more about our work, adapt the game to your
 ecosystem, apply the game to your teaching or support our work please
 contact us at
 [info\@fishsizeproject.org](mailto:info@fishsizeproject.org "Contact email").
-:::
 
 ------------------------------------------------------------------------
 
-::: h2
-Support
-:::
+## Support {#sec-support}
 
-::: p
 This work is supported by a 2020 Pew Fellowship in Marine Conservation
 awarded to Asta Audzijonyte <bf>[link!]</bf>.
-:::
 

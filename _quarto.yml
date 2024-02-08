@@ -7,6 +7,7 @@ execute:
 website:
   title: "BigFish"
   repo-url: https://github.com/fishsizeproject/BigFishGame
+  page-navigation: false
   navbar:
     pinned: true
     collapse: true
@@ -21,11 +22,22 @@ website:
         text: About Us
   sidebar:
   # id, title, search: true, tools, contents: "auto", style: "docked", background, foreground, border, alignment, collapse-level, pinned, header, footer
-   - id: sidebar1
-     title: "Sidebar-1"
-     pinned: true
-     contents: "auto"
-     style: "docked"
+  - id: rules
+    style: "docked"
+    contents:
+      - section: Game Rules
+        contents:
+        - text: Setup
+          href: rules.qmd#sec-section
+        - text: Gameplay
+          href: rules.qmd#sec-gameplay
+        - text: Round end
+          href: rules.qmd#sec-round-end
+        - text: Game end
+          href: rules.qmd#sec-game-end
+      - resources.qmd
+      - wildCards.qmd
+    type: dark
   page-footer:
     left: |
       [![](/images/icons/envelope-solid.svg){fig-alt="info@fishsizeproject.org" fig-align="center" height="1.5em" fig-valign="top" margin-left="5px"}](mailto:info@fishsizeproject.org)
@@ -43,13 +55,15 @@ format:
     theme: lux
     page-layout: full
     grid:
-      sidebar-width: 250px
-      body-width: 1200px
-      margin-width: 250px
+      sidebar-width: 300px
+      body-width: 1000px
+      margin-width: 300px
       gutter-width: 50px
     css: styles.css
-    toc: true
+    toc: false
     fig-responsive: true
+    link-external-icon: true
+    link-external-newwindow: true
 
 
 

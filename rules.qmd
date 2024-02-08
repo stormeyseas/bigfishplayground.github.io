@@ -3,11 +3,11 @@ title: "Game rules"
 ---
 
 ::: text-center
-We've made a short video explaining how to play the game. Full instructions for [setup](#game-setup), [gameplay](#gameplay), [round end](#round-end), and [game end](#game-end) are detailed below.
+We've made a short video explaining how to play the game. Full instructions for [setup](#sec-setup), [gameplay](#sec-gameplay), [round end](#sec-round-end), and [game end](#sec-game-end) are detailed below.
 :::
 
 ::: container
-::: {.row .d-flex style="max-width: 100%;"}
+::: {.row .d-flex .max-width}
 ::: {.col style="flex: 1 0 0%; margin-left: 15%; margin-right: 15%;"}
 ::: {.ratio .ratio-16x9 width="100%"}
 <iframe class=".embed-responsive-item" src="https://www.youtube.com/embed/nFu30n3d1dY?si=nKPmo70OC9PK7Wi7" title="BigFish rules" allowfullscreen>
@@ -20,20 +20,20 @@ We've made a short video explaining how to play the game. Full instructions for 
 
 ------------------------------------------------------------------------
 
-## Setup {#game-setup}
+## Setup {#sec-setup}
 
 Shuffle all fish cards and wildcards together into the gameplay deck and place in the middle of the play area. This is the gameplay deck.
 
-Find the "End of game card" <bf>\[link!\]</bf>, set it aside, and shuffle the remaining round-end cards. Put the top four four round end cards cards aside, add the "End of game card" <bf>\[link!\]</bf> back into the deck and shuffle again. Place the four round-end cards back on top and place the deck near the centre of the play area. The game will end when the "End of game card" is revealed, meaning it can end at any time after the first four rounds. 
+Find the "End of game card" <bf>\[link!\]</bf>, set it aside, and shuffle the remaining round-end cards. Put the top four four round end cards cards aside, add the "End of game card" <bf>\[link!\]</bf> back into the deck and shuffle again. Place the four round-end cards back on top and place the deck near the centre of the play area. The game will end when the "End of game card" is revealed, meaning it can end at any time after the first four rounds.
 
-Identify a large clear space in front of each player as their fishing spot. Deal each player 5 starting cards from the gameplay deck. At the start of the game each player places up to 3 fish from their hand into their fishing site: one as a big fish, one as a medium fish and one as a juvenile fish. If the player does not have 3 fish in their hand they will place fewer cards (e.g. one big and one medium, or only one big fish). 
+Identify a large clear space in front of each player as their fishing spot. Deal each player 5 starting cards from the gameplay deck. At the start of the game each player places up to 3 fish from their hand into their fishing site: one as a big fish, one as a medium fish and one as a juvenile fish. If the player does not have 3 fish in their hand they will place fewer cards (e.g. one big and one medium, or only one big fish).
 
 ![](/images/setupPhoto.jpg){fig-align="center" width="70%"}
 
-From the gameplay deck flip over cards equal to the number of players +2 and place them in the middle next to the gameplay deck. These are the face-up cards. Give each player an esky card, this is placed below the fishing hole. Remember fish placed in the esky must maintain their orientation (juvenile, medium, big). 
+From the gameplay deck flip over cards equal to the number of players +2 and place them in the middle next to the gameplay deck. These are the face-up cards. Give each player an esky card, this is placed below the fishing hole. Remember fish placed in the esky must maintain their orientation (juvenile, medium, big).
 
 ::: container
-::: {.row .d-flex style="max-width: 100%;"}
+::: {.row .d-flex .max-width}
 ::: {.col .align-self-center style="flex: 1 0 0%;"}
 Chose the first player for the first round. It could be the one to most recently have caught a fish.
 :::
@@ -51,7 +51,7 @@ Chose the first player for the first round. It could be the one to most recently
 During the round each player follows the steps on the turn order card.
 
 ::: container
-::: {.row .d-flex style="max-width: 100%;"}
+::: {.row .d-flex .max-width}
 ::: {.col-4 style="flex: 0 0 10%;"}
 #### Step 1
 :::
@@ -61,7 +61,7 @@ Draw new cards equal to the number of large fish you have in your fishing hole, 
 :::
 :::
 
-::: {.row .d-flex style="max-width: 100%;"}
+::: {.row .d-flex .max-width}
 ::: {.col-4 style="flex: 0 0 10%;"}
 #### Step 2
 :::
@@ -71,7 +71,7 @@ Spawn fish (place them face up in your fishing site) from your hand as a larval 
 :::
 :::
 
-::: {.row .d-flex style="max-width: 100%;"}
+::: {.row .d-flex .max-width}
 ::: {.col-4 style="flex: 0 0 10%;"}
 #### Step 3
 :::
@@ -81,7 +81,7 @@ Grow fish to their next stage by rotating them from larval to juvenile, from juv
 :::
 :::
 
-::: {.row .d-flex style="max-width: 100%;"}
+::: {.row .d-flex .max-width}
 ::: {.col-4 style="flex: 0 0 10%;"}
 #### Step 4
 :::
@@ -91,7 +91,7 @@ If you like, catch ONE fish from your fishing site. Do this by placing it in you
 :::
 :::
 
-::: {.row .d-flex style="max-width: 100%;"}
+::: {.row .d-flex .max-width}
 ::: {.col-4 style="flex: 0 0 10%;"}
 #### Step 5
 :::
@@ -111,7 +111,7 @@ If you like, play ONE wild card from your hand. Wild cards come in multiple colo
 After each player has had one turn, follow the round end steps to complete the round.
 
 ::: container
-::: {.row .d-flex style="max-width: 100%;"}
+::: {.row .d-flex .max-width}
 ::: {.col-4 style="flex: 0 0 10%;"}
 #### Step 1
 :::
@@ -121,7 +121,7 @@ Reveal the next round end event card and follow its directions. If this is a rou
 :::
 :::
 
-::: {.row .d-flex style="max-width: 100%;"}
+::: {.row .d-flex .max-width}
 ::: {.col-4 style="flex: 0 0 10%;"}
 #### Step 2
 :::
@@ -131,7 +131,7 @@ Discard cards in your hand so no player has more than 7 cards in hand. This rare
 :::
 :::
 
-::: {.row .d-flex style="max-width: 100%;"}
+::: {.row .d-flex .max-width}
 ::: {.col-4 style="flex: 0 0 10%;"}
 #### Step 3
 :::
@@ -141,7 +141,7 @@ Reset the face-up cards for the centre by moving them to the used card pile (fac
 :::
 :::
 
-::: {.row .d-flex style="max-width: 100%;"}
+::: {.row .d-flex .max-width}
 ::: {.col-4 style="flex: 0 0 10%;"}
 #### Step 4
 :::
@@ -153,12 +153,8 @@ Rotate the first player by passing the first player card clockwise. This ensures
 ::: {.col-4 style="flex: 0 0 100px;"}
 <img src="/images/firstPlayer.jpg" width="100px"/>
 :::
-
 :::
-
 :::
-
-
 
 ------------------------------------------------------------------------
 
@@ -166,14 +162,40 @@ Rotate the first player by passing the first player card clockwise. This ensures
 
 The game ends randomly, once the flipped round end card is the "End of the game" card. This should happen after the end of 5 rounds or more. Now count your points.
 
-**Step 1.** Making sure you keep the orientation correct for each fish in your esky and count the points displayed next to the life stage of each fish in your esky.
+::: container
+::: {.row .d-flex .max-width}
+::: {.col-4 style="flex: 0 0 10%;"}
+#### Step 1
+:::
 
-**Step 2.** Each larval, juvenile and medium fish remaining in your fishing site give you 1 point. Add these points to your total score. This encourages to keep a healthy ecosystem.
+::: {.col-8 style="flex: 1 0 0%;"}
+Making sure you keep the orientation correct for each fish in your esky, count the points displayed next to the life stage of each fish in your esky.
+:::
+:::
 
-**Step 3.** Each big fish remaining alive in your fishing site give you 2 points. Add these points to your total score. This encourages to keep a healthy ecosystem and large fish for the future.
+::: {.row .d-flex .max-width}
+::: {.col-4 style="flex: 0 0 10%;"}
+#### Step 2
+:::
 
-**The winner is the player with the most points!**
+::: {.col-8 style="flex: 1 0 0%;"}
+Each larval, juvenile and medium fish remaining in your fishing site give you 1 point. Add these points to your total score. This encourages to keep a healthy ecosystem.
+:::
+:::
 
-<br/>
+::: {.row .d-flex .max-width}
+::: {.col-4 style="flex: 0 0 10%;"}
+#### Step 3
+:::
+
+::: {.col-8 style="flex: 1 0 0%;"}
+Each big fish remaining alive in your fishing site give you 2 points. Add these points to your total score. This encourages to keep a healthy ecosystem and large fish for the future.
+:::
+:::
+:::
+
+::: {.h3 style="text-align:center"}
+The winner is the player with the most points!
+:::
 
 ![](images/sebastian-pena-lambarri-unsplash.jpg){width="100%" fig-align="center"}

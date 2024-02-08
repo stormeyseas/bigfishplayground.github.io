@@ -107,9 +107,7 @@ ul.task-list li input[type="checkbox"] {
 <div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-full page-navbar">
 <!-- sidebar -->
 <!-- margin-sidebar -->
-    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar zindex-bottom">
-        
-    </div>
+    
 <!-- main -->
 <main class="content column-page" id="quarto-document-content">
 
@@ -130,8 +128,6 @@ ul.task-list li input[type="checkbox"] {
 
 </header>
 
-<!-- About Us -->
-<div class="text-left">
 <p>This game has been developed by the Institute of Marine and Antarctic Sciences (IMAS) <bf>[link!]</bf>, University of Tasmania team, led by Matt Testoni, Asta Audzijonyte and Amy Coghlan. All artwork is original and produced by Amy Coghlan (drawings) and Matt Testoni (photos, design).</p>
 <div class="columns">
 <div class="column" style="width:5%;">
@@ -155,24 +151,19 @@ ul.task-list li input[type="checkbox"] {
 <!-- empty column -->
 </div>
 </div>
-<p>Game testing, advice, interesting facts and many other details have been provided by many researchers, naturalists, students, friends, anglers, divers and game enthusiasts. Thank you.</p>
-</div>
+<p>Game testing, advice, interesting facts and many other details have been provided by many researchers, naturalists, students, friends, anglers, divers and game enthusiasts. Thank you. :::</p>
 <hr>
-<div class="h3">
-<p>Contact us</p>
-</div>
-<div class="p">
+<section id="sec-contact" class="level3">
+<h3 class="anchored" data-anchor-id="sec-contact">Contact us</h3>
 <p>If you would like to learn more about our work, adapt the game to your ecosystem, apply the game to your teaching or support our work please contact us at <a href="mailto:info@fishsizeproject.org">info@fishsizeproject.org</a>.</p>
-</div>
 <hr>
-<div class="h2">
-<p>Support</p>
-</div>
-<div class="p">
+</section>
+<section id="sec-support" class="level2">
+<h2 class="anchored" data-anchor-id="sec-support">Support</h2>
 <p>This work is supported by a 2020 Pew Fellowship in Marine Conservation awarded to Asta Audzijonyte <bf>[link!]</bf>.</p>
-</div>
 
 
+</section>
 
 </main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
@@ -406,6 +397,22 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
       });
     }
   }
+    var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
+      var filterRegex = new RegExp('/' + window.location.host + '/');
+    var isInternal = (href) => {
+        return filterRegex.test(href) || localhostRegex.test(href);
+    }
+    // Inspect non-navigation links and adorn them if external
+ 	var links = window.document.querySelectorAll('a[href]:not(.nav-link):not(.navbar-brand):not(.toc-action):not(.sidebar-link):not(.sidebar-item-toggle):not(.pagination-link):not(.no-external):not([aria-hidden]):not(.dropdown-item)');
+    for (var i=0; i<links.length; i++) {
+      const link = links[i];
+      if (!isInternal(link.href)) {
+          // target, if specified
+          link.setAttribute("target", "_blank");
+          // default icon
+          link.classList.add("external");
+      }
+    }
 });
 </script>
 </div> <!-- /content -->
