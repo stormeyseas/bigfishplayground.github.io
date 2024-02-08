@@ -2,13 +2,17 @@
 title: " " # title is in title
 #about: 
 #  template: solana
-editor: 
-  markdown: 
-    wrap: 72
+# editor: 
+#   markdown: 
+#     wrap: 72
 wrap: "auto"
 whitespace: "large"
 sidebar: false
 ---
+
+::: h1
+BIGFISH: The sustainable fishing game
+:::
 
 ::: columns
 ::: {.column width="40%"}
@@ -20,22 +24,19 @@ sidebar: false
 :::
 
 ::: {.column width="50%"}
-::: h2
-The sustainable fishing game
-:::
-
 ::: p
 The Big Fish card game aims to inform and engage everyone interested in
-fishing or marine conservation through fun play. The main goal of the
-game is to collect the maximum number of points from catching fish while
-also preserving a healthy ecosystem and fish size diversity for future
-catches. The game is suitable to ages from 10 to 99+ and is best played
-in a group of 2-5 players.
+fishing or marine conservation through fun play.
+
+The main goal of the game is to collect the maximum number of points
+from catching fish while also preserving a healthy ecosystem and fish
+size diversity for future catches. The game is suitable to ages from 10
+to 99+ and is best played in a group of 2-5 players.
 :::
 :::
 :::
 
-------------------------------------------------------------------------
+<hr>
 
 ::: h2
 Game mechanics
@@ -55,7 +56,7 @@ acidification and others. These events create unpredictability and new
 challenges and inform about human impacts on aquatic ecosystems.
 :::
 
-------------------------------------------------------------------------
+<hr>
 
 ::: h2
 Main messages
@@ -119,5 +120,7 @@ Contact us
 If you would like to learn more about our work, adapt the game to your
 ecosystem, apply the game to your teaching or support our work please
 contact us at
-[info\@fishsizeproject.org](mailto:info@fishsizeproject.org).
+[info\@fishsizeproject.org](mailto:info@fishsizeproject.org "Contact email").
+
+
 :::
