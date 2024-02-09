@@ -1,14 +1,29 @@
 ---
 title: "Wildcards"
+sidebar: cards-sidebar
 ---
 
-::: container
-::: {.row .d-flex .max-width}
-::: {.col .align-self-center style="flex: 1 0 0%; margin-right: 5%;"}
+::: callout-caution
+I'm thinking maybe a carousel/gallery of all the cards?
+:::
+
 # Catch and release {#sec-catch-and-release}
 
 Releasing caught fish can greatly help fish populations. One must safely release fish that is too small or too large for the size limits (if minimum or maximum size limits are in place). Anglers also often chose to release unwanted fish or fish that are especially valuable for the ocean and fish populations, such as predatory or large fish. In fact, all fish are valuable in the sea, so all fish that will not be consumed should be released back safely. When released correctly, survival rates are very high, e.g. over 90% or even higher.
 
+<!-- How to play strip -->
+
+::: container
+::: {.row .d-flex .max-width}
+::: {.col .align-self-center style="flex: 0 0 0%; margin-left: 10%; margin-right: 5%"}
+::: {.image-container .image-card}
+<p style="padding: 0px 0px 0px 0px; margin: 0px 0px 0px 0px;">
+<img src="/images/catchRelease.jpg" width="250px"/>
+</p>
+:::
+:::
+
+::: {.col .align-self-center style="flex: 1 0 0%; margin-left: 5%; margin-right: 10%"}
 ::: {.container .how-to-play}
 ::: {.row .d-flex .max-width}
 ::: {.col style="flex: 1 0 0%; margin-left: 5%; margin-right: 5%"}
@@ -19,14 +34,11 @@ Choose a fish from the available face-up cards and either place it in your esky 
 :::
 :::
 :::
+:::
+:::
 
-::: {.col .align-self-center style="flex: 0 0 0%;"}
-::: {.image-container .image-card}
-<img src="/images/catchRelease.jpg" width="250px"/>
-:::
-:::
-:::
-:::
+<!-- end of How to play strip -->
+
 
 ## Learn more
 
@@ -50,7 +62,7 @@ You can also learn about catch and release fishing from Australia's great angler
 
 [Here](https://www.dpi.nsw.gov.au/fishing/recreational/fishing-skills/catch-and-release) is a great site with information on catch and release survival rates for different NSW fish species.
 
-![Photo credit?](images/ReleaseFish.jpg){width="70%" fig-align="center"}
+![Photo credit?](/images/ReleaseFish.jpg){width="70%" fig-align="center"}
 
 ------------------------------------------------------------------------
 
@@ -64,7 +76,9 @@ The [Centre for Marine Socioecology](https://marinesocioecology.org/) (CMS) prov
 ::: {.row .d-flex .max-width}
 ::: {.col .align-self-center style="flex: 0 0 0%; margin-left: 10%; margin-right: 5%"}
 ::: {.image-container .image-card}
+<p style="padding: 0px 0px 0px 0px; margin: 0px 0px 0px 0px;">
 <img src="/images/cms.jpg" width="200px"/>
+</p>
 :::
 :::
 
@@ -92,7 +106,7 @@ Check out also this [Future Seas 2030](https://futureseas2030.org/) initiative, 
 
 Why do we need to collaborate? Read more about it [here](https://www.weforum.org/agenda/2021/06/4-views-on-why-scientific-collaboration-is-key-for-the-future/)
 
-![](images/CMSthemes.png){width="100%" fig-align="center"}
+![](/images/CMSthemes.png){width="100%" fig-align="center"}
 
 ------------------------------------------------------------------------
 
@@ -106,7 +120,9 @@ In the last decade, science and data collection have undergone a true revolution
 ::: {.row .d-flex .max-width}
 ::: {.col .align-self-center style="flex: 0 0 0%; margin-left: 10%; margin-right: 5%"}
 ::: {.image-container .image-card}
+<p style="padding: 0px 0px 0px 0px; margin: 0px 0px 0px 0px;">
 <img src="/images/CitScience.jpg" width="200px"/>
+</p>
 :::
 :::
 
@@ -140,7 +156,7 @@ There are plenty of citizen science initiatives for everyone to get involved int
 
 [Tassie Fish Frame Collection Program](https://www.facebook.com/TassieFishFrameCollectionProgram)
 
-![Citizen scientist helping with underwater surveys in the Reef Life Survey program. Photo credit: Rick Stuart-Smith, reeflifesurvey.com](images/fishResearch.jpg){width="70%" fig-align="center"}
+![Citizen scientist helping with underwater surveys in the Reef Life Survey program. Photo credit: Rick Stuart-Smith, reeflifesurvey.com](/images/fishResearch.jpg){width="70%" fig-align="center"}
 
 ------------------------------------------------------------------------
 
@@ -154,7 +170,9 @@ Kelp provides a huge, complex, and food filled habitat. It is essential for heal
 ::: {.row .d-flex .max-width}
 ::: {.col .align-self-center style="flex: 0 0 0%; margin-left: 10%; margin-right: 5%"}
 ::: {.image-container .image-card}
-<a href="#img1"> <img src="/images/giantKelp.jpg" width="200px"/> </a> <a href="#" class="lightbox" id="img1"> <img src="/images/giantKelp.jpg" max-height="90%" max-width="90%" halign="center"/> </a>
+<p style="padding: 0px 0px 0px 0px; margin: 0px 0px 0px 0px;">
+<img src="/images/giantKelp.jpg" width="200px"/>
+</p>
 :::
 :::
 
@@ -216,7 +234,7 @@ Learn about giant kelp restoration efforts by [IMAS](https://www.imas.utas.edu.a
 
 Or read a [scientific article](https://www.frontiersin.org/articles/10.3389/fmars.2020.00074/full#:~:text=Kelp%20forests%20dominate%20the%20rocky,communities%20of%20flora%20and%20fauna.) about reasons for kelp decline and restoration efforts.
 
-![Healthy giant kelp. Photo credit: Rick Stuart-Smith, reeflifesurvey.com](images/KelpPhoto.jpg){width="70%" fig-align="center"}
+![Healthy giant kelp. Photo credit: Rick Stuart-Smith, reeflifesurvey.com](/images/KelpPhoto.jpg){width="70%" fig-align="center"}
 
 ------------------------------------------------------------------------
 
@@ -224,11 +242,35 @@ Or read a [scientific article](https://www.frontiersin.org/articles/10.3389/fmar
 
 Whales such as the humpback whale or blue whale are key species in cycling nutrients in the ocean. Known as whale pumps, these animals help by feeding in the deep oceans and pooping out large quantities of nutrients in shallow waters. These nutrients are essential for smaller species such as phytoplankton to grow. Many whale populations have been decimated by whaling, but populations of humpback whales have recovered in the last decades. This wild card shows how a visiting whale can provide positive impacts on a local environment. While they may consume some krill or small fish for food they also supply vital nutrients that are required for a healthy marine habitat and good fishing.
 
-***How to play?*** Discard a larval or juvenile fish from your fishing spot to grow a medium fish to a big fish. One grow per fish per turn still applies. Remember this card is discarded after use.
+<!-- How to play strip -->
 
-![](images/whale.jpg){width="50%" fig-align="center"}
+::: container
+::: {.row .d-flex .max-width}
+::: {.col .align-self-center style="flex: 0 0 0%; margin-left: 10%; margin-right: 5%"}
+::: {.image-container .image-card}
+<p style="padding: 0px 0px 0px 0px; margin: 0px 0px 0px 0px;">
+<img src="/images/whale.jpg" width="200px"/>
+</p>
+:::
+:::
 
-***Learn more***
+::: {.col .align-self-center style="flex: 1 0 0%; margin-left: 5%; margin-right: 10%"}
+::: {.container .how-to-play}
+::: {.row .d-flex .max-width}
+::: {.col style="flex: 1 0 0%; margin-left: 5%; margin-right: 5%"}
+#### How to play
+
+Discard a larval or juvenile fish from your fishing spot to grow a medium fish to a big fish. One grow per fish per turn still applies. Remember this card is discarded after use.
+:::
+:::
+:::
+:::
+:::
+:::
+
+<!-- end of How to play strip -->
+
+## Learn more
 
 A [scientific article](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0013255) explaining the benefits of the "whale pump".
 
@@ -242,11 +284,33 @@ A [popular article](https://www.rom.on.ca/en/collections-research/magazine/great
 
 Illegal fishing means fishing that does not follow existing regulations, be they minimum or maximum size limits, bag limits, marine protected areas or other rules. Fishing regulations are essential for sustainable fishing, but in various countries up to 20% of anglers may not obey these rules. This card shows catching fish below or above the determined size limit hurts the population and the fishing, although the damage will naturally depend on how large the overall population is in the fishing spot.
 
-***How to play?*** Choose a player, they must choose two juvenile fish from their fishing spot and discard them (juvenile fish are below the minimum size limit and should not be fished). Remember this card is discarded after use.
+<!-- How to play strip -->
+::: container
+::: {.row .d-flex .max-width}
+::: {.col .align-self-center style="flex: 0 0 0%; margin-left: 10%; margin-right: 5%"}
+::: {.image-container .image-card}
+<p style="padding: 0px 0px 0px 0px; margin: 0px 0px 0px 0px;">
+<img src="/images/cards/illegal_fishing.jpg" width="200px"/>
+</p>
+:::
+:::
 
-![](images/illegal_fishing.jpg){width="50%" fig-align="center"}
+::: {.col .align-self-center style="flex: 1 0 0%; margin-left: 5%; margin-right: 10%"}
+::: {.container .how-to-play}
+::: {.row .d-flex .max-width}
+::: {.col style="flex: 1 0 0%; margin-left: 5%; margin-right: 5%"}
+#### How to play
 
-***Learn more***
+Choose a player, they must choose two juvenile fish from their fishing spot and discard them (juvenile fish are below the minimum size limit and should not be fished). Remember this card is discarded after use.
+:::
+:::
+:::
+:::
+:::
+:::
+<!-- end of How to play strip -->
+
+## Learn more
 
 [Fishwatch](https://fishing.tas.gov.au/community/fishwatch) allows you to report illegal fishing in Tasmania.
 
@@ -256,12 +320,192 @@ A [scientific article](https://figshare.utas.edu.au/articles/journal_contributio
 
 # Large shark {#sec-large-shark}
 
+<!-- How to play strip -->
+::: container
+::: {.row .d-flex .max-width}
+::: {.col .align-self-center style="flex: 0 0 0%; margin-left: 10%; margin-right: 5%"}
+::: {.image-card}
+<p style="padding: 0px 0px 0px 0px; margin: 0px 0px 0px 0px;">
+<img src="/images/cards/placeholder.png" style="border: 1px solid" width="200px"/>
+</p>
+:::
+:::
+
+::: {.col .align-self-center style="flex: 1 0 0%; margin-left: 5%; margin-right: 10%"}
+::: {.container .how-to-play}
+::: {.row .d-flex .max-width}
+::: {.col style="flex: 1 0 0%; margin-left: 5%; margin-right: 5%"}
+#### How to play
+
+Instructions.
+:::
+:::
+:::
+:::
+:::
+:::
+<!-- end of How to play strip -->
+
+## Learn more
+
+----------------------------------------------
+
 # Marine protected area {#sec-marine-protected-area}
+
+<!-- How to play strip -->
+::: container
+::: {.row .d-flex .max-width}
+::: {.col .align-self-center style="flex: 0 0 0%; margin-left: 10%; margin-right: 5%"}
+::: {.image-container .image-card}
+<p style="padding: 0px 0px 0px 0px; margin: 0px 0px 0px 0px;">
+<img src="/images/cards/placeholder.png" style="border: 1px solid" width="200px"/>
+</p>
+:::
+:::
+
+::: {.col .align-self-center style="flex: 1 0 0%; margin-left: 5%; margin-right: 10%"}
+::: {.container .how-to-play}
+::: {.row .d-flex .max-width}
+::: {.col style="flex: 1 0 0%; margin-left: 5%; margin-right: 5%"}
+#### How to play
+
+Instructions.
+:::
+:::
+:::
+:::
+:::
+:::
+<!-- end of How to play strip -->
+
+## Learn more
+
+----------------------------------------------
 
 # Poor water quality {#sec-poor-water-quality}
 
+<!-- How to play strip -->
+::: container
+::: {.row .d-flex .max-width}
+::: {.col .align-self-center style="flex: 0 0 0%; margin-left: 10%; margin-right: 5%"}
+::: {.image-container .image-card}
+<p style="padding: 0px 0px 0px 0px; margin: 0px 0px 0px 0px;">
+<img src="/images/cards/placeholder.png" style="border: 1px solid" width="200px"/>
+</p>
+:::
+:::
+
+::: {.col .align-self-center style="flex: 1 0 0%; margin-left: 5%; margin-right: 10%"}
+::: {.container .how-to-play}
+::: {.row .d-flex .max-width}
+::: {.col style="flex: 1 0 0%; margin-left: 5%; margin-right: 5%"}
+#### How to play
+
+Instructions.
+:::
+:::
+:::
+:::
+:::
+:::
+<!-- end of How to play strip -->
+
+## Learn more
+
+----------------------------------------------
+
 # Seaweed {#sec-seaweed}
+
+<!-- How to play strip -->
+::: container
+::: {.row .d-flex .max-width}
+::: {.col .align-self-center style="flex: 0 0 0%; margin-left: 10%; margin-right: 5%"}
+::: {.image-container .image-card}
+<p style="padding: 0px 0px 0px 0px; margin: 0px 0px 0px 0px;">
+<img src="/images/cards/placeholder.png" style="border: 1px solid" width="200px"/>
+</p>
+:::
+:::
+
+::: {.col .align-self-center style="flex: 1 0 0%; margin-left: 5%; margin-right: 10%"}
+::: {.container .how-to-play}
+::: {.row .d-flex .max-width}
+::: {.col style="flex: 1 0 0%; margin-left: 5%; margin-right: 5%"}
+#### How to play
+
+Instructions.
+:::
+:::
+:::
+:::
+:::
+:::
+<!-- end of How to play strip -->
+
+## Learn more
+
+----------------------------------------------
 
 # Severe weather {#sec-severe-weather}
 
+<!-- How to play strip -->
+::: container
+::: {.row .d-flex .max-width}
+::: {.col .align-self-center style="flex: 0 0 0%; margin-left: 10%; margin-right: 5%"}
+::: {.image-container .image-card}
+<p style="padding: 0px 0px 0px 0px; margin: 0px 0px 0px 0px;">
+<img src="/images/cards/placeholder.png" style="border: 1px solid" width="200px"/>
+</p>
+:::
+:::
+
+::: {.col .align-self-center style="flex: 1 0 0%; margin-left: 5%; margin-right: 10%"}
+::: {.container .how-to-play}
+::: {.row .d-flex .max-width}
+::: {.col style="flex: 1 0 0%; margin-left: 5%; margin-right: 5%"}
+#### How to play
+
+Instructions.
+:::
+:::
+:::
+:::
+:::
+:::
+<!-- end of How to play strip -->
+
+## Learn more
+
+----------------------------------------------
+
 # Shelfish reef {#sec-shelfish-reef}
+
+<!-- How to play strip -->
+::: container
+::: {.row .d-flex .max-width}
+::: {.col .align-self-center style="flex: 0 0 0%; margin-left: 10%; margin-right: 5%"}
+::: {.image-container .image-card}
+<p style="padding: 0px 0px 0px 0px; margin: 0px 0px 0px 0px;">
+<img src="/images/cards/placeholder.png" style="border: 1px solid" width="200px"/>
+</p>
+:::
+:::
+
+::: {.col .align-self-center style="flex: 1 0 0%; margin-left: 5%; margin-right: 10%"}
+::: {.container .how-to-play}
+::: {.row .d-flex .max-width}
+::: {.col style="flex: 1 0 0%; margin-left: 5%; margin-right: 5%"}
+#### How to play
+
+Instructions.
+:::
+:::
+:::
+:::
+:::
+:::
+<!-- end of How to play strip -->
+
+## Learn more
+
+
