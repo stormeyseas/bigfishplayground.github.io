@@ -31,23 +31,86 @@ website:
       - text: "About"
         href: pages/AboutDevs.qmd
   sidebar:
-  # id, title, search: true, tools, contents: "auto", style: "docked", background, foreground, border, alignment, collapse-level, pinned, header, footer
-  - id: rules
+  - id: rules-sidebar
     style: "docked"
     contents:
-      - section: Game Rules
+      - section: "How to play BigFish"
         contents:
-        - text: Setup
+        - text: "Setup"
           href: rules.qmd#sec-section
-        - text: Gameplay
+        - text: "Gameplay"
           href: rules.qmd#sec-gameplay
-        - text: Round end
+        - text: "Round end"
           href: rules.qmd#sec-round-end
-        - text: Game end
+        - text: "Game end"
           href: rules.qmd#sec-game-end
-      - resources.qmd
-      - wildCards.qmd
+      - text: "-----"
+      - section: "Cards"
+        contents:
+        - text: "Wildcards"
+          href: pages/WildCards.qmd
+        - text: "Round-end cards"
+          href: pages/RoundEndCards.qmd
+      - text: "-----"
+      - section: "More information"
+        contents:
+        - text: "Resources"
+          href: pages/resources_working.qmd
     type: dark
+    border: false
+  - id: cards-sidebar
+    style: "docked"
+    contents:
+      - section: "Wildcards"
+        contents:
+        - text: Catch and Release
+          href: pages/WildCards.qmd#sec-catch-and-release
+        - text: Centre for Marine Socioecology (CMS)
+          href: pages/WildCards.qmd#sec-centre-for-marine-socioecology
+        - text: Citizen science
+          href: pages/WildCards.qmd#sec-citizen-science
+        - text: Giant kelp
+          href: pages/WildCards.qmd#sec-giant-kelp
+        - text: Humpback whale
+          href: pages/WildCards.qmd#sec-humpback-whale
+        - text: Illegal fishing
+          href: pages/WildCards.qmd#sec-illegal-fishing
+        - text: Large shark
+          href: pages/WildCards.qmd#sec-large-shark
+        - text: Marine protected area
+          href: pages/WildCards.qmd#sec-marine-protected-area
+        - text: Poor water quality
+          href: pages/WildCards.qmd#sec-poor-water-quality
+        - text: Seaweed
+          href: pages/WildCards.qmd#sec-seaweed
+        - text: Severe weather
+          href: pages/WildCards.qmd#sec-severe-weather
+        - text: Shelfish reef
+          href: pages/WildCards.qmd#sec-shelfish-reef
+      - text: "-----"
+      - section: "Round-End Cards"
+        contents:
+        - text: El Nino begins
+          href: pages/WildCards.qmd#sec-el-nino-begins
+        - text: Fisheries impose upper size limit
+          href: pages/WildCards.qmd#sec-fisheries-impose-upper-size-limit
+        - text: Fisheries research occurs
+          href: pages/WildCards.qmd#sec-fisheries-research-occurs
+        - text: Localised species extinction
+          href: pages/WildCards.qmd#sec-localised-species-extinction
+        - text: Long spined sea urchins arrive
+          href: pages/WildCards.qmd#sec-long-spined-sea-urchins-arrive
+        - text: Ocean acidification
+          href: pages/WildCards.qmd#sec-ocean-acidification
+        - text: Plankton swarm occurs
+          href: pages/WildCards.qmd#sec-plankton-swarm-occurs
+        - text: Seaweed planting occurs
+          href: pages/WildCards.qmd#sec-seaweed-planting-occurs
+      - text: "-----"
+      - text: " Game Setup & Rules"
+        href: pages/resources_working.qmd
+    type: dark
+    border: false
   page-footer:
     left: |
       [![](/images/icons/envelope-solid.svg){fig-alt="info@fishsizeproject.org" fig-align="center" height="1.5em" fig-valign="top" margin-left="5px"}](mailto:info@fishsizeproject.org)
@@ -65,9 +128,9 @@ format:
     theme: lux
     page-layout: full
     grid:
-      sidebar-width: 300px
-      body-width: 1000px
-      margin-width: 300px
+      sidebar-width: 350px
+      body-width: 950px
+      margin-width: 350px
       gutter-width: 50px
     css: styles.css
     toc: false
