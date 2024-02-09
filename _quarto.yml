@@ -12,14 +12,24 @@ website:
     pinned: true
     collapse: true
     left:
-      - href: rules.qmd
-        text: Rules
-      - href: wildCards.qmd
-        text: Wildcards
-      - href: resources.qmd
-        text: Resources
-      - href: AboutDevs.qmd
-        text: About Us
+      - text: "Home"
+        href: pages/index.qmd
+      - text: "Play"
+        menu:
+          - text: "Setup & rules"
+            href: pages/rules.qmd
+          - text: "Wildcards"
+            href: pages/WildCards.qmd
+          - text: "Round-end cards"
+            href: pages/RoundEndCards.qmd
+      - text: "Explore"
+        menu:
+          - text: "The science"
+            href: pages/science.qmd
+          - text: "Other resources"
+            href: pages/resources_working.qmd
+      - text: "About"
+        href: pages/AboutDevs.qmd
   sidebar:
   # id, title, search: true, tools, contents: "auto", style: "docked", background, foreground, border, alignment, collapse-level, pinned, header, footer
   - id: rules
@@ -62,7 +72,7 @@ format:
     css: styles.css
     toc: false
     fig-responsive: true
-    link-external-icon: true
+    # link-external-icon: true
     link-external-newwindow: true
 
 

@@ -81,15 +81,30 @@ ul.task-list li input[type="checkbox"] {
           <div class="collapse navbar-collapse" id="navbarCollapse">
             <ul class="navbar-nav navbar-nav-scroll me-auto">
   <li class="nav-item">
-    <a class="nav-link" href="./rules.html" rel="" target="">
- <span class="menu-text">Rules</span></a>
+    <a class="nav-link" href="./rules.qmd" rel="" target="">
+ <span class="menu-text">Play</span></a>
   </li>  
-  <li class="nav-item">
-    <a class="nav-link" href="./wildCards.html" rel="" target="">
- <span class="menu-text">Wildcards</span></a>
+  <li class="nav-item dropdown ">
+    <a class="nav-link dropdown-toggle" href="#" id="nav-menu-explore" role="button" data-bs-toggle="dropdown" aria-expanded="false" rel="" target="">
+ <span class="menu-text">Explore</span>
+    </a>
+    <ul class="dropdown-menu" aria-labelledby="nav-menu-explore">    
+        <li>
+    <a class="dropdown-item" href="./science.qmd" rel="" target="">
+ <span class="dropdown-text">The Science</span></a>
   </li>  
+        <li>
+    <a class="dropdown-item" href="./WildCards.qmd" rel="" target="">
+ <span class="dropdown-text">Wildcards</span></a>
+  </li>  
+        <li>
+    <a class="dropdown-item" href="./RoundEndCards.qmd" rel="" target="">
+ <span class="dropdown-text">Round-end cards</span></a>
+  </li>  
+    </ul>
+  </li>
   <li class="nav-item">
-    <a class="nav-link" href="./resources.html" rel="" target="">
+    <a class="nav-link" href="./resources.qmd" rel="" target="">
  <span class="menu-text">Resources</span></a>
   </li>  
   <li class="nav-item">
@@ -409,8 +424,6 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
       if (!isInternal(link.href)) {
           // target, if specified
           link.setAttribute("target", "_blank");
-          // default icon
-          link.classList.add("external");
       }
     }
 });
