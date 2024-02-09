@@ -1,0 +1,216 @@
+---
+title: "Round-End Cards"
+sidebar: cards-sidebar
+---
+
+::: callout-caution
+I'm thinking maybe a carousel/gallery of all the cards?
+:::
+
+## El Nino begins {#sec-el-nino-begins}
+
+::: container
+::: {.row .d-flex .max-width}
+::: {.col .align-self-center style="flex: 0 0 0%; margin-left: 10%; margin-right: 5%"}
+::: {.image-container .image-card}
+<p style="padding: 0px 0px 0px 0px; margin: 0px 0px 0px 0px;">
+<img src="/images/cards/placeholder.png" border="1px solid" width="250px"/>
+</p>
+:::
+:::
+
+::: {.col .align-self-center style="flex: 1 0 0%; margin-left: 5%; margin-right: 10%"}
+::: {.container .how-to-play}
+::: {.row .d-flex .max-width}
+::: {.col style="flex: 1 0 0%; margin-left: 5%; margin-right: 5%"}
+#### At the end of the round
+
+Card effect...
+:::
+:::
+:::
+:::
+:::
+:::
+
+## Fisheries impose upper size limit {#sec-fisheries-impose-upper-size-limit}
+
+::: container
+::: {.row .d-flex .max-width}
+::: {.col .align-self-center style="flex: 0 0 0%; margin-left: 10%; margin-right: 5%"}
+::: {.image-container .image-card}
+<p style="padding: 0px 0px 0px 0px; margin: 0px 0px 0px 0px;">
+<img src="/images/cards/placeholder.png" border="1px solid" width="250px"/>
+</p>
+:::
+:::
+
+::: {.col .align-self-center style="flex: 1 0 0%; margin-left: 5%; margin-right: 10%"}
+::: {.container .how-to-play}
+::: {.row .d-flex .max-width}
+::: {.col style="flex: 1 0 0%; margin-left: 5%; margin-right: 5%"}
+#### At the end of the round
+
+Card effect...
+:::
+:::
+:::
+:::
+:::
+:::
+
+## Fisheries research occurs {#sec-fisheries-research-occurs}
+
+::: container
+::: {.row .d-flex .max-width}
+::: {.col .align-self-center style="flex: 0 0 0%; margin-left: 10%; margin-right: 5%"}
+::: {.image-container .image-card}
+<p style="padding: 0px 0px 0px 0px; margin: 0px 0px 0px 0px;">
+<img src="/images/cards/placeholder.png" border="1px solid" width="250px"/>
+</p>
+:::
+:::
+
+::: {.col .align-self-center style="flex: 1 0 0%; margin-left: 5%; margin-right: 10%"}
+::: {.container .how-to-play}
+::: {.row .d-flex .max-width}
+::: {.col style="flex: 1 0 0%; margin-left: 5%; margin-right: 5%"}
+#### At the end of the round
+
+Card effect...
+:::
+:::
+:::
+:::
+:::
+:::
+
+## Localised species extinction {#sec-localised-species-extinction}
+
+::: container
+::: {.row .d-flex .max-width}
+::: {.col .align-self-center style="flex: 0 0 0%; margin-left: 10%; margin-right: 5%"}
+::: {.image-container .image-card}
+<p style="padding: 0px 0px 0px 0px; margin: 0px 0px 0px 0px;">
+<img src="/images/cards/placeholder.png" border="1px solid" width="250px"/>
+</p>
+:::
+:::
+
+::: {.col .align-self-center style="flex: 1 0 0%; margin-left: 5%; margin-right: 10%"}
+::: {.container .how-to-play}
+::: {.row .d-flex .max-width}
+::: {.col style="flex: 1 0 0%; margin-left: 5%; margin-right: 5%"}
+#### At the end of the round
+
+Card effect...
+:::
+:::
+:::
+:::
+:::
+:::
+
+## Long spined sea urchins arrive {#sec-long-spined-sea-urchins-arrive}
+
+::: container
+::: {.row .d-flex .max-width}
+::: {.col .align-self-center style="flex: 0 0 0%; margin-left: 10%; margin-right: 5%"}
+::: {.image-container .image-card}
+<p style="padding: 0px 0px 0px 0px; margin: 0px 0px 0px 0px;">
+<img src="/images/cards/placeholder.png" border="1px solid" width="250px"/>
+</p>
+:::
+:::
+
+::: {.col .align-self-center style="flex: 1 0 0%; margin-left: 5%; margin-right: 10%"}
+::: {.container .how-to-play}
+::: {.row .d-flex .max-width}
+::: {.col style="flex: 1 0 0%; margin-left: 5%; margin-right: 5%"}
+#### At the end of the round
+
+Card effect...
+:::
+:::
+:::
+:::
+:::
+:::
+
+## Ocean acidification {#sec-ocean-acidification}
+
+::: container
+::: {.row .d-flex .max-width}
+::: {.col .align-self-center style="flex: 0 0 0%; margin-left: 10%; margin-right: 5%"}
+::: {.image-container .image-card}
+<p style="padding: 0px 0px 0px 0px; margin: 0px 0px 0px 0px;">
+<img src="/images/cards/placeholder.png" border="1px solid" width="250px"/>
+</p>
+:::
+:::
+
+::: {.col .align-self-center style="flex: 1 0 0%; margin-left: 5%; margin-right: 10%"}
+::: {.container .how-to-play}
+::: {.row .d-flex .max-width}
+::: {.col style="flex: 1 0 0%; margin-left: 5%; margin-right: 5%"}
+#### At the end of the round
+
+Card effect...
+:::
+:::
+:::
+:::
+:::
+:::
+
+## Plankton swarm occurs {#sec-plankton-swarm-occurs}
+
+::: container
+::: {.row .d-flex .max-width}
+::: {.col .align-self-center style="flex: 0 0 0%; margin-left: 10%; margin-right: 5%"}
+::: {.image-container .image-card}
+<p style="padding: 0px 0px 0px 0px; margin: 0px 0px 0px 0px;">
+<img src="/images/cards/placeholder.png" border="1px solid" width="250px"/>
+</p>
+:::
+:::
+
+::: {.col .align-self-center style="flex: 1 0 0%; margin-left: 5%; margin-right: 10%"}
+::: {.container .how-to-play}
+::: {.row .d-flex .max-width}
+::: {.col style="flex: 1 0 0%; margin-left: 5%; margin-right: 5%"}
+#### At the end of the round
+
+Card effect...
+:::
+:::
+:::
+:::
+:::
+:::
+
+## Seaweed planting occurs {#sec-seaweed-planting-occurs}
+
+::: container
+::: {.row .d-flex .max-width}
+::: {.col .align-self-center style="flex: 0 0 0%; margin-left: 10%; margin-right: 5%"}
+::: {.image-container .image-card}
+<p style="padding: 0px 0px 0px 0px; margin: 0px 0px 0px 0px;">
+<img src="/images/cards/placeholder.png" border="1px solid" width="250px"/>
+</p>
+:::
+:::
+
+::: {.col .align-self-center style="flex: 1 0 0%; margin-left: 5%; margin-right: 10%"}
+::: {.container .how-to-play}
+::: {.row .d-flex .max-width}
+::: {.col style="flex: 1 0 0%; margin-left: 5%; margin-right: 5%"}
+#### At the end of the round
+
+Card effect...
+:::
+:::
+:::
+:::
+:::
+:::

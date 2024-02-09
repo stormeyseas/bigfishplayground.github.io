@@ -1,0 +1,63 @@
+---
+title: "About the Developers"
+sidebar: false
+---
+
+This game has been developed by the Institute of Marine and Antarctic Sciences (IMAS) <bf>[link!]</bf>, University of Tasmania team, led by Matt Testoni, Asta Audzijonyte and Amy Coghlan. All artwork is original and produced by Amy Coghlan (drawings) and Matt Testoni (photos, design). 
+
+::: columns
+::: {.column width="12.5%"}
+<!-- empty column -->
+:::
+
+::: {.column width="25%"}
+![](/images/photo.png){style="text-align:center; width:100%; height:auto; padding-left: 5%; padding-right:5%"}
+
+::: text-center
+Matt Testoni
+:::
+
+:::
+
+::: {.column width="25%"}
+![](/images/photo.png){style="text-align:center; width:100%; height:auto; padding-left: 5%; padding-right:5%"}
+
+::: text-center
+Asta Audzijonyte
+:::
+
+:::
+
+::: {.column width="25%"}
+![](/images/photo.png){style="text-align:center; width:100%; height:auto; padding-left: 5%; padding-right:5%"}
+
+::: text-center
+Amy Coghlan
+:::
+
+:::
+
+::: {.column width="12.5%"}
+<!-- empty column -->
+:::
+
+:::
+
+Game testing, advice, interesting facts and many other details have been provided by many researchers, naturalists, students, friends, anglers, divers and game enthusiasts. Thank you.
+
+------------------------------------------------------------------------
+
+## Contact us {#sec-contact-us}
+
+If you would like to learn more about our work, adapt the game to your
+ecosystem, apply the game to your teaching or support our work please
+contact us at
+[info\@fishsizeproject.org](mailto:info@fishsizeproject.org "Contact email").
+
+------------------------------------------------------------------------
+
+## Support {#sec-support}
+
+This work is supported by a 2020 Pew Fellowship in Marine Conservation
+awarded to Asta Audzijonyte <bf>[link!]</bf>.
+

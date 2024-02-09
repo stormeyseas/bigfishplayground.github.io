@@ -1,0 +1,77 @@
+---
+title: "Resources"
+sidebar: false
+---
+
+::: callout-caution
+Introductory paragraph - we've made these resources for teachers, students etc. If you have questions or suggestions please contact us at <br>\[link!\]</br>.
+:::
+
+----------------------------------------------------
+
+# Wild cards
+
+::: callout-caution
+This section is possibly a duplicate of the wildcards/round-end cards content, but seems to have some new stuff?
+:::
+
+::: container
+::: {.row .d-flex style="max-width: 100%;"}
+::: {.col .align-self-center style="flex: 1 0 0%; margin-left: 50px; margin-right: 50px;"}
+## Blue Groper
+
+Large fish are important in maintaining a natural ecosystem in balance. For example, only the largest fish and largest rock lobsters will eat the urchins, which are decimating Tasmanian and other kelp forests. Check out [*this story in the ABC magazine*](https://hyperlink.here) to learn more.
+:::
+
+::: col
+<img src="/images/cards/placeholder.png" width="250px" border="1px solid"/>
+:::
+:::
+
+::: {.row .d-flex style="max-width: 100%;"}
+::: {.col .align-self-center style="flex: 1 0 0%; margin-left: 50px; margin-right: 50px;"}
+## Giant Kelp
+
+Kelp is extremely important in providing habitats for all marine creatures.
+:::
+
+::: col
+<img src="/images/cards/giantKelp.JPG" width="250px"/>
+:::
+:::
+:::
+
+# Round end cards
+
+::: container
+::: {.row .d-flex style="max-width: 100%;"}
+::: {.col .align-self-center style="flex: 1 0 0%; margin-left: 50px; margin-right: 50px;"}
+## Urchins arrive
+
+***text text***
+:::
+
+::: col
+<img src="/images/cards/placeholder.png" width="250px" border="1px solid"/>
+:::
+:::
+:::
+
+----------------------------------------------------------------
+
+# BigFish in the media
+
+::: container
+::: {.row .d-flex style="max-width: 100%;"}
+::: {.col style="flex: 1 0 0%; margin-left: 50px; margin-right: 50px;" }
+::: {.ratio .ratio-16x9 width="100%"}
+<iframe class=".embed-responsive-item" src="https://www.youtube.com/embed/S6XGt3DQjdo" allowfullscreen></iframe>
+:::
+:::
+:::
+:::
+
+***Short video about Asta's Pew fellowship project and vision for healthy oceans***
+
+Story about the collaboration between Microsoft and Australian Government's Supervising Scientist Branch to build the baited remote underwter video image dataset from images at the Kakadu National park - [Citizen scientists, AI and cloud bond to boost billabong health in the Top End](https://news.microsoft.com/en-au/features/citizen-scientists-ai-and-cloud-bond-to-boost-billabong-health-in-the-top-end/)
+
