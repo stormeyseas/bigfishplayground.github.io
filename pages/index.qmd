@@ -182,22 +182,25 @@ This game was developed by...
 
 :::: {.col .align-self-center .flex-width .buffer-10}
 ::: {.image-container .text-center}
-<img src="/images/icons/contact.svg" style="width:25%; position:relative;"/><br><br> 
-Contact the developers of BigFish
+[<img src="/images/icons/contact.svg" style="width:25%; position:relative;"/>](AboutDevs.qmd#sec-contact-us)
+<br><br> 
+[Contact the developers of BigFish](AboutDevs.qmd#sec-contact-us){style="text-decoration:none"}
 :::
 ::::
 
 :::: {.col .align-self-center .flex-width .buffer-10}
 ::: {.image-container .text-center}
-<img src="/images/icons/supporters.svg" style="width:25%;"/><br><br> 
-Our supporters and collaborators
+[<img src="/images/icons/supporters.svg" style="width:25%;"/>](AboutDevs.qmd#sec-support)
+<br><br> 
+[Our supporters and collaborators](AboutDevs.qmd#sec-support){style="text-decoration:none"}
 :::
 ::::
 
 :::: {.col .align-self-center .flex-width .buffer-10}
 ::: {.image-container .text-center}
-<img src="/images/icons/who_are_we.svg" style="width:25%;"/><br><br> 
-Media enquiries
+[<img src="/images/icons/who_are_we.svg" style="width:25%;"/>](AboutDevs.qmd#sec-contact-us)
+<br><br> 
+[Media enquiries](AboutDevs.qmd#sec-contact-us){style="text-decoration:none"}
 :::
 ::::
 
