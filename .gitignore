@@ -52,6 +52,4 @@ rsconnect/
 .Rprofile
 renv
 
-*.Rproj
-
 my_notes.txt
