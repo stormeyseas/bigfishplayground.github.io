@@ -7,13 +7,14 @@ execute:
 website:
   title: "BigFish"
   repo-url: https://github.com/fishsizeproject/BigFishGame
+  site-url: bigfish.drtreimer.com
   page-navigation: false
   navbar:
     pinned: true
     collapse: true
     left:
       - text: "Home"
-        href: pages/index.qmd
+        href: index.qmd
       - text: "Play"
         menu:
           - text: "Setup & rules"
@@ -37,13 +38,13 @@ website:
       - section: "How to play BigFish"
         contents:
         - text: "Setup"
-          href: rules.qmd#sec-section
+          href: pages/rules.qmd#sec-section
         - text: "Gameplay"
-          href: rules.qmd#sec-gameplay
+          href: pages/rules.qmd#sec-gameplay
         - text: "Round end"
-          href: rules.qmd#sec-round-end
+          href: pages/rules.qmd#sec-round-end
         - text: "Game end"
-          href: rules.qmd#sec-game-end
+          href: pages/rules.qmd#sec-game-end
       - text: "-----"
       - section: "Cards"
         contents:

@@ -4,7 +4,7 @@ sidebar: rules-sidebar
 ---
 
 ::: text-center
-We've made a short video explaining how to play the game. Full instructions for [setup](#sec-setup), [gameplay](#sec-gameplay), [round end](#sec-round-end), and [game end](#sec-game-end) are detailed below.
+We've made a short video explaining how to play the game. Full instructions for [setup](rules.qmd#sec-setup), [gameplay](rules.qmd#sec-gameplay), [round end](rules.qmd#sec-round-end), and [game end](rules.qmd#sec-game-end) are detailed below.
 :::
 
 ::: container
@@ -122,7 +122,7 @@ If you like, play ONE wild card from your hand. Wild cards come in multiple colo
 ::::
 
 :::: {.col .fixed-width .align-self-center}
-<img src="/images/turnOrder.jpg" width="250px"/>
+<img src="/images/cards/turnOrder.jpg" width="250px"/>
 ::::
 
 ::::: 
