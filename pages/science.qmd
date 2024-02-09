@@ -1,14 +1,29 @@
 ---
 title: "The science behind the game"
+sidebar: false
 ---
 
+::: columns
+::: {.column width="60%"}
 ::: callout-caution
 This page is currently being built, we thank you for your patience. We are still filling in all the information, so please come back later for more.
 :::
 
 On this page you can learn more about the Wild cards and Round end cards. We are constantly updating this page, so please visit regularly for new information. If you think we are missing some important information or important events or cards, please [contact us](AboutDevs.qmd#sec-contact) and tell us all about it.
+:::
+::: {.column width="40%" margin-left="5%"}
+::: {.text-center margin-bottom="2em"}
+<img src="/images/spongeDive.jpg" style="width:100%; position:relative;" fig-alt="alternate"/>
+<figcaption>Dive at a Reef Life Survey site. Photo credit: Rick Stuart-Smith, [reeflifesurvey.com](https://reeflifesurvey.com)</figcaption>
+:::
+:::
+:::
 
-![Dive at a Reef Life Survey site. Photo credit: Rick Stuart-Smith, reeflifesurvey.com](images/spongeDive.jpg){width="70%" fig-align="center"}
+------------------------------------------------------------------------
+
+# The importance of large fish
+
+A Scalable Open-Source Framework for Machine Learning-Based Image Collection, Annotation and Classification: A Case Study for Automatic Fish Species Identification. [2022.]{style="color:black;"} *Catarina NS Silva, Justas Dainys, Sean Simmons, Vincentas Vienožinskis, Asta Audzijonyte*. [Sustainability 14 (21), 14324](https://www.mdpi.com/2071-1050/14/21/14324)
 
 ------------------------------------------------------------------------
 
@@ -23,27 +38,27 @@ That or maybe just two buttons, eg:
 :::::::: container
 ::::::: {.row .d-flex .max-width}
 
-:::: {.col .buffer-flex}
+:::: {.col .flex-width .buffer-10}
 <!-- empty buffer column -->
 ::::
 
-:::: {.col .buffer-flex}
-::: {.h3 .text-center}
+:::: {.col .flex-width margin-right="7.5%"}
+::: {.h2 .text-center}
 [Wildcards](wildCards.qmd#sec-wild-cards)
 :::
 ::::
 
-:::: {.col .buffer-fixed-10}
+:::: {.col .fixed-width .buffer-10}
 <!-- empty buffer column -->
 ::::
 
-:::: {.col .buffer-flex}
-::: {.h3 .text-center}
+:::: {.col .flex-width margin-left="7.5%"}
+::: {.h2 .text-center}
 [Round-end cards](wildCards.qmd#sec-round-end-cards)
 :::
 ::::
 
-:::: {.col .buffer-flex}
+:::: {.col .flex-width .buffer-10}
 <!-- empty buffer column -->
 ::::
 
@@ -51,27 +66,31 @@ That or maybe just two buttons, eg:
 
 ::::::: {.row .d-flex .max-width}
 
-:::: {.col .buffer-flex}
+:::: {.col .flex-width .buffer-10}
 <!-- empty buffer column -->
 ::::
 
 :::: {.col .align-self-center .fixed-width}
 ::: {.image-container .image-card}
-[<img src="/images/cards/placeholder.png" width="250px"/>](wildCards.qmd#sec-wild-cards)
+<p style="padding: 0px 0px 0px 0px; margin: 0px 0px 0px 0px;">
+[<img src="/images/cards/placeholder.png" border="1px solid" width="250px"/>](pages/WildCards.qmd#sec-wild-cards)
+</p>
 :::
 ::::
 
-:::: {.col .buffer-fixed-10 style="margin-right: 7.5%; margin-left: 7.5%;"}
+:::: {.col .fixed-width .buffer-10 style="margin-right: 7.5%; margin-left: 7.5%;"}
 <!-- empty buffer column -->
 ::::
 
 :::: {.col .align-self-center .fixed-width}
 ::: {.image-container .image-card}
-[<img src="/images/cards/placeholder.png" width="250px"/>](wildCards.qmd#sec-round-end-cards)
+<p style="padding: 0px 0px 0px 0px; margin: 0px 0px 0px 0px;">
+[<img src="/images/cards/placeholder.png" border="1px solid" width="250px"/>](pages/RoundEndCards.qmd#sec-round-end-cards)
+</p>
 :::
 ::::
 
-:::: {.col .buffer-flex}
+:::: {.col .flex-width .buffer-10}
 <!-- empty buffer column -->
 ::::
 

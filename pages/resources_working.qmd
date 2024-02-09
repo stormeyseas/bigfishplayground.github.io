@@ -1,17 +1,24 @@
 ---
 title: "Resources"
+sidebar: false
 ---
 
-::: text-center
+::: callout-caution
 Introductory paragraph - we've made these resources for teachers, students etc. If you have questions or suggestions please contact us at <br>\[link!\]</br>.
 :::
 
-## Wild cards
+----------------------------------------------------
+
+# Wild cards
+
+::: callout-caution
+This section is possibly a duplicate of the wildcards/round-end cards content, but seems to have some new stuff?
+:::
 
 ::: container
 ::: {.row .d-flex style="max-width: 100%;"}
 ::: {.col .align-self-center style="flex: 1 0 0%; margin-left: 50px; margin-right: 50px;"}
-#### Blue Groper
+## Blue Groper
 
 Large fish are important in maintaining a natural ecosystem in balance. For example, only the largest fish and largest rock lobsters will eat the urchins, which are decimating Tasmanian and other kelp forests. Check out [*this story in the ABC magazine*](https://hyperlink.here) to learn more.
 :::
@@ -23,7 +30,7 @@ Large fish are important in maintaining a natural ecosystem in balance. For exam
 
 ::: {.row .d-flex style="max-width: 100%;"}
 ::: {.col .align-self-center style="flex: 1 0 0%; margin-left: 50px; margin-right: 50px;"}
-#### Giant Kelp
+## Giant Kelp
 
 Kelp is extremely important in providing habitats for all marine creatures.
 :::
@@ -34,12 +41,12 @@ Kelp is extremely important in providing habitats for all marine creatures.
 :::
 :::
 
-## Round end cards
+# Round end cards
 
 ::: container
 ::: {.row .d-flex style="max-width: 100%;"}
 ::: {.col .align-self-center style="flex: 1 0 0%; margin-left: 50px; margin-right: 50px;"}
-#### Urchins arrive
+## Urchins arrive
 
 ***text text***
 :::
@@ -50,11 +57,9 @@ Kelp is extremely important in providing habitats for all marine creatures.
 :::
 :::
 
-## Training resources
+----------------------------------------------------------------
 
-[**A short video explaining main rules of the game**\*](https://Youtubelink/)
-
-## BigFish in the media
+# BigFish in the media
 
 ::: container
 ::: {.row .d-flex style="max-width: 100%;"}
@@ -70,6 +75,3 @@ Kelp is extremely important in providing habitats for all marine creatures.
 
 Story about the collaboration between Microsoft and Australian Government's Supervising Scientist Branch to build the baited remote underwter video image dataset from images at the Kakadu National park - [Citizen scientists, AI and cloud bond to boost billabong health in the Top End](https://news.microsoft.com/en-au/features/citizen-scientists-ai-and-cloud-bond-to-boost-billabong-health-in-the-top-end/)
 
-## Science about the importance of large fish
-
-A Scalable Open-Source Framework for Machine Learning-Based Image Collection, Annotation and Classification: A Case Study for Automatic Fish Species Identification. [2022.]{style="color:black;"} *Catarina NS Silva, Justas Dainys, Sean Simmons, Vincentas Vienožinskis, Asta Audzijonyte*. [Sustainability 14 (21), 14324](https://www.mdpi.com/2071-1050/14/21/14324)
