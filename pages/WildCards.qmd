@@ -17,9 +17,14 @@ Releasing caught fish can greatly help fish populations. One must safely release
 ::: {.row .d-flex .max-width}
 ::: {.col .align-self-center style="flex: 0 0 0%; margin-left: 10%; margin-right: 5%"}
 ::: {.image-container .image-card}
+<a href="#img1">
 <p style="padding: 0px 0px 0px 0px; margin: 0px 0px 0px 0px;">
-<img src="/images/catchRelease.jpg" width="250px"/>
+<img src="/images/catchRelease.jpg" width="200px"/>
 </p>
+</a>
+<a href="#" class="lightbox" id="img1">
+<img src="/images/catchRelease.jpg" max-height="90%" max-width="90%" halign="center"/>
+</a>
 :::
 :::
 
