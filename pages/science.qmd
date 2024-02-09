@@ -1,0 +1,79 @@
+---
+title: "The science behind the game"
+---
+
+::: callout-caution
+This page is currently being built, we thank you for your patience. We are still filling in all the information, so please come back later for more.
+:::
+
+On this page you can learn more about the Wild cards and Round end cards. We are constantly updating this page, so please visit regularly for new information. If you think we are missing some important information or important events or cards, please [contact us](AboutDevs.qmd#sec-contact) and tell us all about it.
+
+![Dive at a Reef Life Survey site. Photo credit: Rick Stuart-Smith, reeflifesurvey.com](images/spongeDive.jpg){width="70%" fig-align="center"}
+
+------------------------------------------------------------------------
+
+# The Cards
+
+::: callout-caution
+I'm thinking maybe a gallery/carousel  of all the wildcards and round-end cards, each of which links to their section on the correct page. 
+
+That or maybe just two buttons, eg:
+:::
+
+:::::::: container
+::::::: {.row .d-flex .max-width}
+
+:::: {.col .buffer-flex}
+<!-- empty buffer column -->
+::::
+
+:::: {.col .buffer-flex}
+::: {.h3 .text-center}
+[Wildcards](wildCards.qmd#sec-wild-cards)
+:::
+::::
+
+:::: {.col .buffer-fixed-10}
+<!-- empty buffer column -->
+::::
+
+:::: {.col .buffer-flex}
+::: {.h3 .text-center}
+[Round-end cards](wildCards.qmd#sec-round-end-cards)
+:::
+::::
+
+:::: {.col .buffer-flex}
+<!-- empty buffer column -->
+::::
+
+:::::::
+
+::::::: {.row .d-flex .max-width}
+
+:::: {.col .buffer-flex}
+<!-- empty buffer column -->
+::::
+
+:::: {.col .align-self-center .fixed-width}
+::: {.image-container .image-card}
+[<img src="/images/cards/placeholder.png" width="250px"/>](wildCards.qmd#sec-wild-cards)
+:::
+::::
+
+:::: {.col .buffer-fixed-10 style="margin-right: 7.5%; margin-left: 7.5%;"}
+<!-- empty buffer column -->
+::::
+
+:::: {.col .align-self-center .fixed-width}
+::: {.image-container .image-card}
+[<img src="/images/cards/placeholder.png" width="250px"/>](wildCards.qmd#sec-round-end-cards)
+:::
+::::
+
+:::: {.col .buffer-flex}
+<!-- empty buffer column -->
+::::
+
+:::::::
+::::::::
