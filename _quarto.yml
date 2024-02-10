@@ -7,7 +7,7 @@ execute:
 website:
   title: "BigFish"
   repo-url: https://github.com/fishsizeproject/BigFishGame
-  site-url: bigfish.drtreimer.com
+  site-url: https://bigfish.drtreimer.com
   page-navigation: false
   navbar:
     pinned: true

@@ -44,7 +44,7 @@ That or maybe just two buttons, eg:
 
 :::: {.col .flex-width margin-right="7.5%"}
 ::: {.h2 .text-center}
-[Wildcards](wildCards.qmd#sec-wild-cards)
+[Wildcards](pages/WildCards.qmd)
 :::
 ::::
 
@@ -54,7 +54,7 @@ That or maybe just two buttons, eg:
 
 :::: {.col .flex-width margin-left="7.5%"}
 ::: {.h2 .text-center}
-[Round-end cards](wildCards.qmd#sec-round-end-cards)
+[Round-end cards](pages/WildCards.qmd)
 :::
 ::::
 
@@ -73,7 +73,7 @@ That or maybe just two buttons, eg:
 :::: {.col .align-self-center .fixed-width}
 ::: {.image-container .image-card}
 <p style="padding: 0px 0px 0px 0px; margin: 0px 0px 0px 0px;">
-[<img src="/images/cards/placeholder.png" border="1px solid" width="250px"/>](pages/WildCards.qmd#sec-wild-cards)
+[<img src="/images/cards/placeholder.png" border="1px solid" width="250px"/>](pages/WildCards.qmd)
 </p>
 :::
 ::::
@@ -85,7 +85,7 @@ That or maybe just two buttons, eg:
 :::: {.col .align-self-center .fixed-width}
 ::: {.image-container .image-card}
 <p style="padding: 0px 0px 0px 0px; margin: 0px 0px 0px 0px;">
-[<img src="/images/cards/placeholder.png" border="1px solid" width="250px"/>](pages/RoundEndCards.qmd#sec-round-end-cards)
+[<img src="/images/cards/placeholder.png" border="1px solid" width="250px"/>](pages/RoundEndCards.qmd)
 </p>
 :::
 ::::
