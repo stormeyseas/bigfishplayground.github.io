@@ -1,0 +1,7 @@
+[1,"==> quarto preview --render all --no-watch-inputs --no-browse\n\n"]
+[1,"Rendering:\n"]
+[1,"\r[1/9] git_rstudio_info.Rmd\n"]
+[1,"\r\n\r\nprocessing file: git_rstudio_info.Rmd\r\n\r  |                                                            \r  |                                                      |   0%\r  |                                                            \r  |...........                                           |  20%                \r  |                                                            \r  |......................                                |  40% [setup]        "]
+[1,"\r  |                                                            \r  |................................                      |  60%                \r  |                                                            \r  |...........................................           |  80% [exists in Git]"]
+[1,"\r\nQuitting from lines 21-27 [exists in Git] (git_rstudio_info.Rmd)\r\n"]
+[1,"Error:\r\n! SSH authentication failure: Error: Unable to load key: C:\\Users\\PC\\.ssh\\id_ed25519\r\nBacktrace:\r\n 1. usethis::create_from_github(...)\r\n 3. gert:::raise_libgit2_error(...)\r\n\r                                                                                                          \r\nExecution halted\r\n"]
