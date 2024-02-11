@@ -1,10 +1,5 @@
 ---
-title: "BIGFISH: The sustainable fishing game" # title is in title
-#about: 
-#  template: solana
-# editor: 
-#   markdown: 
-#     wrap: 72
+title: "BIGFISH: The sustainable fishing game"
 whitespace: "large"
 sidebar: false
 ---
