@@ -54,3 +54,5 @@ rsconnect/
 .Rprofile
 
 my_notes.txt
+
+/.quarto/
