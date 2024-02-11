@@ -1,4 +1,3 @@
 # website
 
-Repository for the website about the Big Fish card game and related information. 
-
+A personal redesign of the Big Fish card game website. Original was based on the FishSizeConsortiumAIC template.
