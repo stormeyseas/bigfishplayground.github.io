@@ -1,7 +1,0 @@
-"0","knitr::opts_chunk$set(echo = TRUE)"
-"0","library(usethis)"
-"2","Warning: package ‘usethis’ was built under R version 4.3.2"
-"0","use_git_config("
-"0","      user.name = ""Tormey Reimer"", # will show on commits"
-"0","      user.email = ""tormeyreimer@gmail.com"" # must match Github account"
-"0","      )"
